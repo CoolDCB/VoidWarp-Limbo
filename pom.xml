@@ -10,8 +10,7 @@
     <packaging>jar</packaging>
 
     <name>VoidWarp Limbo</name>
-    <description>Teleports you to a specific location, runs a command or warps you to the nearest warp when you go above
-        or below a specified Y level.
+    <description>Teleports you to the limbo's spawn
     </description>
 
     <properties>

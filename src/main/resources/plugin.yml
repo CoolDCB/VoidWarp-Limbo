@@ -1,0 +1,5 @@
+name: VoidWarp-Limbo
+version: '${project.version}'
+main: me.dave.voidwarplimbo.VoidwarpLimbo
+api-version: 1.19
+authors: [ Dav_e_ ]

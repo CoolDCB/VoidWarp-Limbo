@@ -2,6 +2,8 @@
 # VoidWarp-Limbo
 If you are looking for the main VoidWarp plugin you are in the wrong place! This version of [VoidWarp](https://www.spigotmc.org/resources/voidwarp.107811/) is for [Standalone Limbo](https://www.spigotmc.org/resources/limbo-standalone-server-lightweight-solution-for-afk-or-waiting-rooms-in-your-server-network.82468/) only!
 
+**Download Link**: https://github.com/CoolDCB/VoidWarp-Limbo/releases
+
 <br/><br/>
 ![Features](https://imgur.com/ziDphRe.png)
 - Teleport to the spawn of your limbo world

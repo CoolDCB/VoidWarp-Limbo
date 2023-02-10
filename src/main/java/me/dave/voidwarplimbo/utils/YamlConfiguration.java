@@ -36,7 +36,7 @@ public class YamlConfiguration {
         FileInputStream configStream = null;
 
         try {
-            configStream = new FileInputStream(plugin.getDataFolder().toPath() + "\\config.yml");
+            configStream = new FileInputStream(plugin.getDataFolder().toPath() + "/config.yml");
         } catch (FileNotFoundException err) {
             err.printStackTrace();
         }
